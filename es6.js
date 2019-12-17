@@ -15,6 +15,7 @@ module.exports = {
     'no-var': `error`,
     'prefer-rest-params': `error`,
     'prefer-spread': `error`,
+    'prefer-const': `error`,
     'rest-spread-spacing': `error`,
     'yield-star-spacing': [`error`, `after`],
 
